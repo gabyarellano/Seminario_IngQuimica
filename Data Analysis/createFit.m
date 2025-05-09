@@ -27,9 +27,9 @@ opts.StartPoint = [211.41414199564 -105.054072402325];
 [fitresult, gof] = fit( xData, yData, ft, opts );
 
 % Plot fit with data.
-figure( 'Name', 'data 290 K fit' );
+figure( 'Name', 'data fit at selected temperature' );
 h = plot( fitresult, xData, yData );
-legend( h, 'Times vs. BM', 'data 290 K fit', 'Location', 'NorthEast', 'Interpreter', 'none' );
+legend( h, 'Times vs. BM', 'data fit at selected temp', 'Location', 'NorthEast', 'Interpreter', 'none' );
 % Label axes
 xlabel( 'BM', 'Interpreter', 'none' );
 ylabel( 'Times', 'Interpreter', 'none' );

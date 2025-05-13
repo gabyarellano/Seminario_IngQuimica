@@ -4,4 +4,4 @@ En esta charla, presentaremos una visión general de las herramientas y recursos
 
 Puedes acceder al ejemplo utilizado para análisis de datos aquí:[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/Seminario_IngQuimica&file=Data Analysis/rxnkineticsGAB_ES.mlx)
 
-También encontrarás materiales para un taller de biorreactores aquí: [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/Seminario_IngQuimica&file=Bioreactor Workshop/Bioreactor_Day1_Exercise.mlx)
+También encontrarás materiales para un taller de biorreactores aquí: [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/Seminario_IngQuimica&file=Bioreactor Workshop/Bioreactor_Day1_Exercise.mlx) 
